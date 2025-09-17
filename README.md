@@ -6,7 +6,7 @@ Welcome to my **Age Calculator**, a super-simple SwiftUI app built for iOS 17! I
 
 ## 🚀 Features
 
-- **SwiftUI powered:** Built entirely with SwiftUI for a snappy, modern iOS experience.[^1]
+- **SwiftUI powered:** Built entirely with SwiftUI for a snappy, modern iOS experience.
 - **Easy Date Picker:** Just pick your date of birth—no typing, no fuss! 🗓️
 - **Instant Age Calculation:** Your age appears instantly, updated in real-time as you scroll.
 - **Built-in Error Handling:** The app gently reminds you not to pick a date from the future. ⏳
