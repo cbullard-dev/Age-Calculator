@@ -44,7 +44,8 @@ func calculateAge(secondsSinceDate:Double) -> Int{
 
 Want to see how sweet it looks? Here’s a quick preview:
 
-
+![Main Interface](Screenshots/20250917-IphoneAgeCalculator-2.png)
+![Error Checking](Screenshots/20250917-IphoneAgeCalculator-1.png)
 
 ## 🏗️ Build \& Run
 
